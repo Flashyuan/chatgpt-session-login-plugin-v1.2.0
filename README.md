@@ -1,5 +1,5 @@
 # ChatGPT Session 登录（Edge 插件）
-
+原项目参考：https://github.com/xxxin-cmd/chatgpt-session-login-plugin
 这是一个本地 Edge 插件，可把你本人账号的 ChatGPT Session 令牌写入 `chatgpt.com` 的安全 Cookie，然后打开 ChatGPT。
 
 ## 安装
